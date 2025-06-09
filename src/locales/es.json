@@ -1,0 +1,154 @@
+
+{
+  "nav": {
+    "features": "Características",
+    "pricing": "Precios",
+    "testimonials": "Testimonios", 
+    "faq": "Preguntas Frecuentes"
+  },
+  "hero": {
+    "headline": "Construye Mejor Software",
+    "subheadline": "La plataforma todo-en-uno que ayuda a los equipos a entregar más rápido con herramientas de colaboración potentes, integraciones sin problemas y seguridad empresarial.",
+    "cta": "Comenzar Gratis",
+    "secondary_cta": "Ver Demo"
+  },
+  "features": {
+    "title": "Todo lo que necesitas para entregar más rápido",
+    "subtitle": "Características potentes diseñadas para optimizar tu flujo de trabajo de desarrollo y aumentar la productividad del equipo.",
+    "feature1": {
+      "title": "Rendimiento Ultra Rápido",
+      "description": "Construido en infraestructura moderna con CDN global, asegurando que tus aplicaciones carguen instantáneamente en todo el mundo."
+    },
+    "feature2": {
+      "title": "Seguridad Empresarial", 
+      "description": "Seguridad de grado bancario con cumplimiento SOC 2, cifrado de extremo a extremo y controles de acceso avanzados."
+    },
+    "feature3": {
+      "title": "Integraciones Perfectas",
+      "description": "Conecta con más de 200 herramientas incluyendo GitHub, Slack, Figma y todas tus herramientas de desarrollo favoritas."
+    },
+    "feature4": {
+      "title": "Soporte Experto 24/7",
+      "description": "Nuestro equipo de soporte dedicado está disponible las 24 horas para ayudarte a tener éxito con asistencia prioritaria."
+    }
+  },
+  "testimonials": {
+    "title": "Confiado por miles de equipos en todo el mundo",
+    "subtitle": "Mira lo que nuestros clientes dicen sobre su experiencia.",
+    "testimonial1": {
+      "content": "Esta plataforma ha transformado completamente nuestro flujo de trabajo de desarrollo. Estamos entregando características 3 veces más rápido que antes.",
+      "author": "Sarah Chen",
+      "role": "CTO, TechCorp"
+    },
+    "testimonial2": {
+      "content": "La mejor inversión que hemos hecho para nuestro equipo. Solo las integraciones nos han ahorrado incontables horas cada semana.",
+      "author": "Marcus Rodriguez", 
+      "role": "Desarrollador Principal, InnovateAI"
+    },
+    "testimonial3": {
+      "content": "Soporte excepcional y confiabilidad. Hemos tenido cero tiempo de inactividad desde el cambio, y la productividad de nuestro equipo se ha disparado.",
+      "author": "Emily Watson",
+      "role": "VP Ingeniería, DataFlow"
+    }
+  },
+  "pricing": {
+    "title": "Precios simples y transparentes",
+    "subtitle": "Elige el plan perfecto para tu equipo. Sin tarifas ocultas, cancela en cualquier momento.",
+    "starter": {
+      "name": "Inicial",
+      "price": "$9",
+      "period": "/mes",
+      "description": "Perfecto para equipos pequeños que comienzan",
+      "features": [
+        "Hasta 5 miembros del equipo",
+        "10GB de almacenamiento",
+        "Integraciones básicas",
+        "Soporte por email"
+      ],
+      "cta": "Comenzar Prueba Gratis"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$29",
+      "period": "/mes",
+      "description": "Mejor para equipos en crecimiento y empresas",
+      "features": [
+        "Hasta 25 miembros del equipo",
+        "100GB de almacenamiento",
+        "Integraciones avanzadas", 
+        "Soporte prioritario",
+        "Análisis avanzados",
+        "Flujos de trabajo personalizados"
+      ],
+      "cta": "Comenzar Prueba Gratis",
+      "popular": "Más Popular"
+    },
+    "enterprise": {
+      "name": "Empresarial",
+      "price": "Personalizado",
+      "period": "",
+      "description": "Para organizaciones grandes con necesidades personalizadas",
+      "features": [
+        "Miembros ilimitados del equipo",
+        "Almacenamiento ilimitado",
+        "Todas las integraciones",
+        "Soporte telefónico 24/7",
+        "Seguridad avanzada",
+        "Contratos personalizados",
+        "Gerente de éxito dedicado"
+      ],
+      "cta": "Contactar Ventas"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre nuestra plataforma.",
+    "q1": {
+      "question": "¿Cómo funciona la prueba gratuita?",
+      "answer": "Obtienes acceso completo a todas las características Pro por 14 días, sin tarjeta de crédito requerida. Puedes cancelar en cualquier momento durante el período de prueba."
+    },
+    "q2": {
+      "question": "¿Puedo cambiar mi plan más tarde?",
+      "answer": "¡Absolutamente! Puedes actualizar o reducir tu plan en cualquier momento. Los cambios tienen efecto inmediatamente, y prorratearemos la facturación."
+    },
+    "q3": {
+      "question": "¿Qué integraciones soportan?",
+      "answer": "Soportamos más de 200 integraciones incluyendo GitHub, GitLab, Slack, Discord, Figma, Notion y todas las principales herramientas de desarrollo. Se agregan nuevas integraciones regularmente."
+    },
+    "q4": {
+      "question": "¿Están seguros mis datos?",
+      "answer": "Sí, tomamos la seguridad en serio. Somos compatibles con SOC 2, usamos cifrado de extremo a extremo, y todos los datos se almacenan en centros de datos seguros y distribuidos geográficamente."
+    },
+    "q5": {
+      "question": "¿Ofrecen reembolsos?",
+      "answer": "Ofrecemos una garantía de devolución de dinero de 30 días. Si no estás completamente satisfecho, contacta a nuestro equipo de soporte para un reembolso completo."
+    },
+    "q6": {
+      "question": "¿Cómo funciona la facturación?",
+      "answer": "La facturación es mensual o anual. Los planes anuales obtienen un 20% de descuento. Puedes gestionar tu suscripción y facturación desde la configuración de tu cuenta."
+    }
+  },
+  "footer": {
+    "company": "Empresa",
+    "about": "Acerca de Nosotros",
+    "careers": "Carreras",
+    "contact": "Contacto", 
+    "blog": "Blog",
+    "product": "Producto",
+    "features": "Características",
+    "pricing": "Precios",
+    "security": "Seguridad",
+    "integrations": "Integraciones",
+    "support": "Soporte",
+    "help_center": "Centro de Ayuda",
+    "documentation": "Documentación",
+    "api": "Referencia API",
+    "status": "Estado",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies",
+    "language": "Idioma",
+    "rights": "© 2024 Plataforma SaaS. Todos los derechos reservados."
+  }
+}

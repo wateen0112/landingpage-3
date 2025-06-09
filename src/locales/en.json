@@ -1,0 +1,154 @@
+
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing", 
+    "testimonials": "Testimonials",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "headline": "Build Better Software",
+    "subheadline": "The all-in-one platform that helps teams ship faster with powerful collaboration tools, seamless integrations, and enterprise-grade security.",
+    "cta": "Get Started Free",
+    "secondary_cta": "Watch Demo"
+  },
+  "features": {
+    "title": "Everything you need to ship faster",
+    "subtitle": "Powerful features designed to streamline your development workflow and boost team productivity.",
+    "feature1": {
+      "title": "Lightning Fast Performance",
+      "description": "Built on modern infrastructure with global CDN, ensuring your applications load instantly worldwide."
+    },
+    "feature2": {
+      "title": "Enterprise Security",
+      "description": "Bank-grade security with SOC 2 compliance, end-to-end encryption, and advanced access controls."
+    },
+    "feature3": {
+      "title": "Seamless Integrations", 
+      "description": "Connect with 200+ tools including GitHub, Slack, Figma, and all your favorite development tools."
+    },
+    "feature4": {
+      "title": "24/7 Expert Support",
+      "description": "Our dedicated support team is available around the clock to help you succeed with priority assistance."
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by thousands of teams worldwide",
+    "subtitle": "See what our customers have to say about their experience.",
+    "testimonial1": {
+      "content": "This platform has completely transformed our development workflow. We're shipping features 3x faster than before.",
+      "author": "Sarah Chen",
+      "role": "CTO, TechCorp"
+    },
+    "testimonial2": {
+      "content": "The best investment we've made for our team. The integrations alone have saved us countless hours every week.",
+      "author": "Marcus Rodriguez",
+      "role": "Lead Developer, InnovateAI"
+    },
+    "testimonial3": {
+      "content": "Outstanding support and reliability. We've had zero downtime since switching, and our team productivity has skyrocketed.",
+      "author": "Emily Watson",
+      "role": "VP Engineering, DataFlow"
+    }
+  },
+  "pricing": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "Choose the perfect plan for your team. No hidden fees, cancel anytime.",
+    "starter": {
+      "name": "Starter",
+      "price": "$9",
+      "period": "/month",
+      "description": "Perfect for small teams getting started",
+      "features": [
+        "Up to 5 team members",
+        "10GB storage",
+        "Basic integrations",
+        "Email support"
+      ],
+      "cta": "Start Free Trial"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$29",
+      "period": "/month",
+      "description": "Best for growing teams and businesses",
+      "features": [
+        "Up to 25 team members",
+        "100GB storage", 
+        "Advanced integrations",
+        "Priority support",
+        "Advanced analytics",
+        "Custom workflows"
+      ],
+      "cta": "Start Free Trial",
+      "popular": "Most Popular"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "",
+      "description": "For large organizations with custom needs",
+      "features": [
+        "Unlimited team members",
+        "Unlimited storage",
+        "All integrations",
+        "24/7 phone support",
+        "Advanced security",
+        "Custom contracts",
+        "Dedicated success manager"
+      ],
+      "cta": "Contact Sales"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our platform.",
+    "q1": {
+      "question": "How does the free trial work?",
+      "answer": "You get full access to all Pro features for 14 days, no credit card required. You can cancel anytime during the trial period."
+    },
+    "q2": {
+      "question": "Can I change my plan later?",
+      "answer": "Absolutely! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate the billing."
+    },
+    "q3": {
+      "question": "What integrations do you support?",
+      "answer": "We support 200+ integrations including GitHub, GitLab, Slack, Discord, Figma, Notion, and all major development tools. New integrations are added regularly."
+    },
+    "q4": {
+      "question": "Is my data secure?",
+      "answer": "Yes, we take security seriously. We're SOC 2 compliant, use end-to-end encryption, and all data is stored in secure, geographically distributed data centers."
+    },
+    "q5": {
+      "question": "Do you offer refunds?",
+      "answer": "We offer a 30-day money-back guarantee. If you're not completely satisfied, contact our support team for a full refund."
+    },
+    "q6": {
+      "question": "How does billing work?",
+      "answer": "Billing is monthly or annual. Annual plans get a 20% discount. You can manage your subscription and billing from your account settings."
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers", 
+    "contact": "Contact",
+    "blog": "Blog",
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "security": "Security",
+    "integrations": "Integrations",
+    "support": "Support",
+    "help_center": "Help Center",
+    "documentation": "Documentation",
+    "api": "API Reference",
+    "status": "Status",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "language": "Language",
+    "rights": "© 2024 SaaS Platform. All rights reserved."
+  }
+}
